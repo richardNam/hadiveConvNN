@@ -1,7 +1,6 @@
 # Convolutional Neural Network for Pedestrian Classification
 
-![alt text][logo]
-[logo]: https://github.com/richardNam/hadiveConvNN/blob/master/resources/1839jh.gif
+![alt text](https://github.com/richardNam/hadiveConvNN/blob/master/resources/1839jh.gif)
 
 
 
