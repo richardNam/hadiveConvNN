@@ -1,4 +1,4 @@
--- @Richard Nam
+-- @Richard N.
 -- this script will balance and augment input data
 -- balancing is done through data augmentation
 c = require 'trepl.colorize'
